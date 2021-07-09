@@ -23,7 +23,7 @@ My name is **Ashish**, and I am a data scientist based in London!
 🔭 Check out my other websites
 
 [![My LinkedIn profile](https://img.shields.io/badge/-AThanki/-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/athanki/)
-[![My Blog](https://img.shields.io/badge/-My%20Blog-grey)](https://ashishthanki.github.io/blog)
+[![My Blog](https://img.shields.io/badge/-My%20Blog-grey?style=for-the-badge&logo=Blog&logoColor=grey)](https://ashishthanki.github.io/blog)
 
 [![Visits Badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=AshsishThanki.AshishThanki&color=1D70B8&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/ashishthanki)
 
