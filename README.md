@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
 
 My name is **Ashish**, and I am a data scientist based in London!
 
@@ -24,7 +23,7 @@ My name is **Ashish**, and I am a data scientist based in London!
 🔭 Check out my other websites
 
 [![My LinkedIn profile](https://img.shields.io/badge/-AThanki/-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/athanki/)
-[![My Blog](https://img.shields.io/badge/-My%Blog-grey)](https://ashishthanki.github.io/blog)
+[![My Blog](https://img.shields.io/badge/-My%20Blog-grey)](https://ashishthanki.github.io/blog)
 
 [![Visits Badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=AshsishThanki.AshishThanki&color=1D70B8&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/ashishthanki)
 
@@ -34,7 +33,7 @@ My name is **Ashish**, and I am a data scientist based in London!
 
 [![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=FFFFFF)](https://airflow.apache.org/)
 [![Amazon Web Services (AWS) Sagemaker](https://img.shields.io/badge/-AWS%20Sagemaker-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=FFFFFF)](https://aws.amazon.com/)
-[![Convolutional Neural Networks](https://img.shields.io/badge/-Stanford%20University-maroon)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+[![Convolutional Neural Networks](https://img.shields.io/badge/-Stanford%20University-maroon?style=for-the-badge&logo=Stanford&logoColor=maroon)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 
 👨‍💻 Proficiency in popular data science tools, including, but not limited to, the following...
