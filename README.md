@@ -37,6 +37,7 @@ My name is **Ashish**, and I am a data scientist based in London!
 
 
 👨‍💻 Proficiency in popular data science tools, including, but not limited to, the following...
+
 [![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=FFFFFF)](https://www.anaconda.com/)
 [![Cookiecutter](https://img.shields.io/badge/-Cookiecutter-D4AA00?style=for-the-badge&logo=Cookiecutter&logoColor=FFFFFF)](https://cookiecutter.readthedocs.io/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)](https://git-scm.com/)
