@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is **Ashish**, and I am a data scientist based in London!
 
-💛 I love using data to aid in decision making by using data science tools and machine learning to solve problems. I am a self taught data scientist that currently works for WSP. I share my code on Github, write blogs and spend a lot of my time outside of work learning about data science - its a hobby!   I  
+💛 I love using data to aid in decision making by using data science tools and machine learning to solve problems. I am a self taught data scientist that currently works for WSP. I share my code on Github, write blogs and spend a lot of my time outside of work learning about data science - it is a hobby!   I  
 
 
 🔭 Check out my other websites
