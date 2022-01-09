@@ -33,7 +33,7 @@ My name is **Ashish**, and I am a data scientist based in London!
 
 [![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=FFFFFF)](https://airflow.apache.org/)
 [![Amazon Web Services (AWS)](https://img.shields.io/badge/-AWS%20Sagemaker-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=FFFFFF)](https://aws.amazon.com/)
-[![Facebook Marketing Science Profressional Certification(https://img.shields.io/badge/-Facebook-navy?style=for-the-badge&logo=Facebook%20AWS&logoColor=blue)](https://www.facebook.com/business/learn/certification/exams/200-101-exam)
+[![Facebook Marketing Science Profressional Certification](https://img.shields.io/badge/-Facebook-navy?style=for-the-badge&logo=Facebook%20AWS&logoColor=blue)](https://www.facebook.com/business/learn/certification/exams/200-101-exam)
 
 👨‍💻 Proficiency in popular data science tools, including, but not limited to, the following...
 
