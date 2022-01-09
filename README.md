@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is **Ashish**, and I am a data scientist based in London!
 
-💛 I love using data to aid in decision making by using data science tools and machine learning to solve problems. I am a self taught data scientist that currently works for WSP. I share my code on Github, write blogs and spend a lot of my time outside of work learning about data science - it is a hobby!   I  
+💛 I love using data to aid in decision making by using data science tools and machine learning to solve problems. I am a self taught data scientist and contribute to the open source data science community. I share my code on Github, write blogs and spend a lot of my time outside of work learning about data science - it is a hobby!   I  
 
 
 🔭 Check out my other websites
@@ -32,9 +32,8 @@ My name is **Ashish**, and I am a data scientist based in London!
 🌱 Currently Learning...
 
 [![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=FFFFFF)](https://airflow.apache.org/)
-[![Amazon Web Services (AWS) Sagemaker](https://img.shields.io/badge/-AWS%20Sagemaker-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=FFFFFF)](https://aws.amazon.com/)
-[![Convolutional Neural Networks](https://img.shields.io/badge/-Stanford%20University-maroon?style=for-the-badge&logo=Stanford&logoColor=maroon)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-
+[![Amazon Web Services (AWS)](https://img.shields.io/badge/-AWS%20Sagemaker-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=FFFFFF)](https://aws.amazon.com/)
+[![Facebook Marketing Science Profressional Certification](https://img.shields.io/badge/-Facebook-blue)
 
 👨‍💻 Proficiency in popular data science tools, including, but not limited to, the following...
 
