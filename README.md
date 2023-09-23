@@ -14,4 +14,5 @@ My name is **Ashish**, and I am a data scientist based in London!
 
 <p>
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishthanki&layout=compact&custom_title=Most%20used%20languages" alt="Ashish's most used languages">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=ashishthanki&count_private=true&show_icons=true&hide_title=true" alt="Ashish's GitHub statistics">
 </p>
